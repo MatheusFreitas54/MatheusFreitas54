@@ -1,10 +1,8 @@
-### Olá! Eu sou o Matheus Freitas 
+<h1>Olá eu sou o Matheus Freitas</h1>
 
-##
-
-- 💬 Estou buscando entrar na area de programação trabalhando como desenvolvedor Web Full-stack.
-- 🌱 Estudando HTML5,CSS3,Javascript,PHP,mySQL,Bootstrap,Node.js...
-- 📫 contate-me pelo email: matheusrlcm@gmail.com e pelo telefone: (11) 98144-3171
+<h3>Atualmente estou estudando tecnologias como HTML5, CSS3, Javascript, PHP, Python, MySQL, Bootstrap, Node.js e entre outros. Com o intuito de ingressar na área e me aperfeiçoar para me tornar um desenvolvedor full-stack, Buscando Desenvolver soluções para qualquer necessidade que envolva sistemas e Softwares.
+</h3>
+<br>
 
 <div align="center">
   <a href="https://github.com/MatheusFreitas54">
@@ -17,10 +15,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-php" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-SQL" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 

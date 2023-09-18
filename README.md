@@ -1,6 +1,6 @@
-<h1>Olá eu sou o Matheus Freitas!</h1>
+<h1>Olá 👋</h1>
 
-<h3>Atualmente estou estudando tecnologias como HTML5, CSS3, Javascript, PHP, Python, MySQL, Bootstrap, Node.js e entre outros. Com o intuito de ingressar na área e me aperfeiçoar para me tornar um desenvolvedor WEB full-stack, Buscando Desenvolver soluções para qualquer necessidade que envolva sistemas e Softwares.
+<h3>Sou Desenvolvedor Front-end apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos utilizando HTML, CSS, JavaScript, ReactJS, Mysql e Python. Estou fazendo ADS e diversos cursos da udemy e da danki code, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web.
 </h3>
 <br>
 

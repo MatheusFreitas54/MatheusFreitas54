@@ -5,9 +5,10 @@
 
 <div align="center">
   <img style="margin: auto;" src="https://hackernoon.com/images/f2px36fy.gif" height="200">
+  <h3>Sou Desenvolvedor Full Stack, apaixonado pelas melhores tecnologias de desenvolvimento web.</h3>
+  
 </div>
 
-<h3>Sou Desenvolvedor Full Stack, apaixonado pelas melhores tecnologias de desenvolvimento web.</h3>
 <br>
 
 <div align="center">

@@ -1,6 +1,11 @@
 <h1>Olá 👋</h1>
 
-<h3>Sou Desenvolvedor Full Stack Junior, apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência em projetos utilizando PHP, Laravel, Javascript, Jquery, Bootstrap, React, Vue, Node, MySQL, MongoDB, Python, Java e entre outros. Atualmente, estou cursando uma pós-graduação em Full Stack Development - Design, Engineering & Deployment, além de continuar buscando me aprimorar cada vez mais com diversos cursos, novas experiencias e desafios. Sou proativo, adaptável e estou sempre em busca de aprendizado contínuo.</h3>
+<!--<h3>Sou Desenvolvedor Full Stack Junior, apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência em projetos utilizando PHP, Laravel, Javascript, Jquery, Bootstrap, React, Vue, Node, MySQL, MongoDB, Python, Java e entre outros. Atualmente, estou cursando uma pós-graduação em Full Stack Development - Design, Engineering & Deployment, além de continuar buscando me aprimorar cada vez mais com diversos cursos, novas experiencias e desafios. Sou proativo, adaptável e estou sempre em busca de aprendizado contínuo.</h3>
+<br> -->
+
+<img style="margin: auto;" src="https://hackernoon.com/images/f2px36fy.gif" height="200">
+
+<h3>Sou Desenvolvedor Full Stack Junior, apaixonado pelas melhores tecnologias de desenvolvimento web.</h3>
 <br>
 
 <div align="center">
